@@ -39,7 +39,7 @@ stack overflow - https://stackoverflow.com/questions/147515/least-common-multipl
 
 
 
-lcm(a,b,c,d) = lcm(a,lcm(b,c,d)) = lcm(lcm(a,b),c,d) = lcm(lcm(j,c),d) = lcm(h,d)
+<b>lcm(a,b,c,d) = lcm(a,lcm(b,c,d)) = lcm(lcm(a,b),c,d) = lcm(lcm(j,c),d) = lcm(h,d) </b><br>
 insane confusing math but it uses associative property of lcm
 image for better understanding
 ![imageyo](https://media.geeksforgeeks.org/wp-content/uploads/20241127153437644842/properties---------of---------lcm---------1.webp)
